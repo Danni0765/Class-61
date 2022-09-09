@@ -1,0 +1,15 @@
+body{
+    text-align: center;
+}
+.line{
+    width:100px;
+    height:5px;
+    background-color:black;
+    margin-left:570px;
+}
+#apps{
+    background-color:darkseagreen;
+    }
+#games{
+    background-color:darkkhaki;
+}
